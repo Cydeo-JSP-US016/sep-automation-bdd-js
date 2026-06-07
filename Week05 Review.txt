@@ -1,0 +1,31 @@
+Week 05 Review:
+    1. SEP Playwright BDD framework
+    2. Jenkins Jobs for SEP
+    3. GitHub Actions Workflow for SEP
+    4. Fixtures (browser, context, request)
+
+
+Behavior Driven Development Layers:
+
+    1. Business Layer
+            Create Feature File (User Story) ===> Write Scenarios (Test Cases)
+
+    2. Technical Layer:
+            Generate Step Definitions ===> place the step definition under the steps folder ===> Write the automation scripts
+
+
+POM (Page Object Module): 
+        For each web page, we create a seperate page class
+        We will store web page locators and actions in our page class
+        Allows us to re-use them in our tests,
+
+
+
+Next Live CLass:
+        Fixtures
+        TDD
+
+        Template automation
+
+        Resume & LinkedIn
+        Interview Questions
